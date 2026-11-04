@@ -147,7 +147,7 @@ client.close()
 ```
 Output:
 serverchat.py:
-![Uploading rithik_1b2.png…]()
+<img width="2145" height="733" alt="rithik_1b2" src="https://github.com/user-attachments/assets/c0dfee61-a73a-4a38-87c1-d36709d53cb7" />
 
 clientchat.py
 <img width="2169" height="725" alt="rithik _1b" src="https://github.com/user-attachments/assets/d5855c0b-ce1d-4362-8573-2b5e3c7d4508" />
